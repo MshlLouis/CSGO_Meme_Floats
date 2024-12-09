@@ -9,5 +9,5 @@ This project includes files that list possible meme floats that can be crafted i
 2. The second row shows the float value displayed on CSFloat.
 3. The third row shows the actual stored value.
 
-NOTE: The last digit of the first 2 rows is always being rounded up if the next digit is between 5-9. So for example if the float displayed in game ends with 3 but the following digit is 5-9 (you can just look at the next row to check), 
-the value will be rounded up to 4.
+NOTE: The last digit of the first 2 rows is always being rounded up if the next digit is between 5-9. So for example if the float displayed in game ends with 0 but the following digit is 5-9 (you can just look at the next row to check), 
+the value will be rounded up to 1.
